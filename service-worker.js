@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/whitepanda_task/precache-manifest.c8a13159bcb70975275640537e21edc6.js"
+  "/whitepanda_task/precache-manifest.4f806bc1302c602719f3af94cb0d6075.js"
 );
 
 workbox.clientsClaim();
