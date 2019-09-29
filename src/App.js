@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {BrowserRouter} from 'react-router-dom'
+import {HashRouter, BrowserRouter} from 'react-router-dom'
 import Navbar from './components/layout/Navbar'
 import VerticalTabs from './components/layout/VerticalTabs'
 import Dashboard from './components/dashboard/Dashboard'
@@ -8,7 +8,7 @@ import Footer from './components/layout/Footer'
 class App extends Component {
   render() {
     return (
-      <BrowserRouter>
+      <HashRouter>
         <div className="App">
           <Navbar />
           <div className="row">
@@ -21,7 +21,7 @@ class App extends Component {
           </div>
           <Footer />
         </div>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
