@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/whitepanda_task/static/css/1.b560817f.chunk.css"
   },
   {
-    "revision": "f92d73e1527944d2a0a5eb67c1847597",
+    "revision": "8b3eaa474bb0448d2525d9799be8eea4",
     "url": "/whitepanda_task/index.html"
   }
 ];
