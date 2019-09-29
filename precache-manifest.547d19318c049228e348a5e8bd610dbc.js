@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/whitepanda_task/static/js/runtime~main.5a78d97a.js"
   },
   {
-    "revision": "b0407b4c8dc91fb34678",
-    "url": "/whitepanda_task/static/js/main.b0407b4c.chunk.js"
+    "revision": "c49ab4c779ab4339b67e",
+    "url": "/whitepanda_task/static/js/main.c49ab4c7.chunk.js"
   },
   {
     "revision": "81a5b392d569929c93dd",
     "url": "/whitepanda_task/static/js/1.81a5b392.chunk.js"
   },
   {
-    "revision": "b0407b4c8dc91fb34678",
+    "revision": "c49ab4c779ab4339b67e",
     "url": "/whitepanda_task/static/css/main.2c32d9c9.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/whitepanda_task/static/css/1.b560817f.chunk.css"
   },
   {
-    "revision": "8b3eaa474bb0448d2525d9799be8eea4",
+    "revision": "7bf698ba2f4a7b4ecd1563d5fac80399",
     "url": "/whitepanda_task/index.html"
   }
 ];
