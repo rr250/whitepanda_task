@@ -1,7 +1,7 @@
 {
   "main.css": "/whitepanda_task/static/css/main.b0ef356f.chunk.css",
-  "main.js": "/whitepanda_task/static/js/main.a0117256.chunk.js",
-  "main.js.map": "/whitepanda_task/static/js/main.a0117256.chunk.js.map",
+  "main.js": "/whitepanda_task/static/js/main.180b0419.chunk.js",
+  "main.js.map": "/whitepanda_task/static/js/main.180b0419.chunk.js.map",
   "static/css/1.b560817f.chunk.css": "/whitepanda_task/static/css/1.b560817f.chunk.css",
   "static/js/1.b0e78b0d.chunk.js": "/whitepanda_task/static/js/1.b0e78b0d.chunk.js",
   "static/js/1.b0e78b0d.chunk.js.map": "/whitepanda_task/static/js/1.b0e78b0d.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.b560817f.chunk.css.map": "/whitepanda_task/static/css/1.b560817f.chunk.css.map",
   "static/css/main.b0ef356f.chunk.css.map": "/whitepanda_task/static/css/main.b0ef356f.chunk.css.map",
   "index.html": "/whitepanda_task/index.html",
-  "precache-manifest.50691b678a24d49ab3c41c51565ea35c.js": "/whitepanda_task/precache-manifest.50691b678a24d49ab3c41c51565ea35c.js",
+  "precache-manifest.59635e6ca873b2f98b816946eb140f5a.js": "/whitepanda_task/precache-manifest.59635e6ca873b2f98b816946eb140f5a.js",
   "service-worker.js": "/whitepanda_task/service-worker.js"
 }
