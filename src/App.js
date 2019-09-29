@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
-import {BrowserRouter,Switch,Route} from 'react-router-dom'
+import {BrowserRouter} from 'react-router-dom'
 import Navbar from './components/layout/Navbar'
+import VerticalTabs from './components/layout/VerticalTabs'
 import Dashboard from './components/dashboard/Dashboard'
+import Footer from './components/layout/Footer'
 
 class App extends Component {
   render() {
@@ -9,9 +11,15 @@ class App extends Component {
       <BrowserRouter>
         <div className="App">
           <Navbar />
-          <Switch>
-            <Route exact path='/' component={Dashboard}/>
-          </Switch>
+          <div className="row">
+            <div className="col s12 m1">
+                <VerticalTabs/>
+            </div>
+            <div className="col s12 m11">
+                <Dashboard/>
+            </div>
+          </div>
+          <Footer />
         </div>
       </BrowserRouter>
     );

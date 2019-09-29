@@ -12,3 +12,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.notif{
+  position: absolute;
+}
+
+.notification-badge {
+  position:relative;
+  padding:5px 9px;
+  background-color: #fa668be1;
+  color: #ffffff;
+  bottom: 15px;
+  left: 15px;
+  border-radius: 50%;
+}
+
+.tab1{
+  padding: 100,100;
+  color: #fa668be1
+}
