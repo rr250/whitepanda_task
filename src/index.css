@@ -19,15 +19,44 @@ code {
 
 .notification-badge {
   position:relative;
-  padding:5px 9px;
+  padding:5px 5px 5px;
   background-color: #fa668be1;
   color: #ffffff;
   bottom: 15px;
   left: 15px;
-  border-radius: 50%;
+  border-radius: 100%;
 }
 
 .tab1{
   padding: 100,100;
   color: #fa668be1
 }
+
+.card-one {
+  transition: transform .5s;
+  padding: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 10px;
+}
+
+.card-one:after {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transition: opacity 2s cubic-bezier(.165, .84, .44, 1);
+  content: '';
+  opacity: 0;
+  z-index: -1;
+  padding: 50px 50px 50px 50px;
+}
+
+.card-one:hover,
+.card-one:focus {
+  transform: scale3d(1.006, 1.006, 1);
+}
+
+.card-one:hover:after {
+  opacity: 1;
+  box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.089), 0 6px 20px 0 rgba(0, 0, 0, 0.089);
+}
+
+

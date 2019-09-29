@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import {HashRouter, BrowserRouter} from 'react-router-dom'
+import {HashRouter} from 'react-router-dom'
 import Navbar from './components/layout/Navbar'
 import VerticalTabs from './components/layout/VerticalTabs'
 import Dashboard from './components/dashboard/Dashboard'
@@ -17,9 +17,9 @@ class App extends Component {
             </div>
             <div className="col s12 m11">
                 <Dashboard/>
+                <Footer />
             </div>
           </div>
-          <Footer />
         </div>
       </HashRouter>
     );

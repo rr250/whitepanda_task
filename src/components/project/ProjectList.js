@@ -5,25 +5,25 @@ const ProjectList = () => {
     return (
       <div className="project-list section">
         <div class="col m4">
-          <ProjectSummary/>
+          <ProjectSummary title="Blog/ Article"/>
           <br />
-          <ProjectSummary/>
+          <ProjectSummary title="e-book"/>
           <br />
-          <ProjectSummary/>
+          <ProjectSummary title="Website Content"/>
         </div>
         <div class="col m4">
-          <ProjectSummary/>
+          <ProjectSummary title="Newsletter/ E-mailer"/>
           <br />
-          <ProjectSummary/>
+          <ProjectSummary title="Report/ Guide"/>
           <br />
-          <ProjectSummary/>
+          <ProjectSummary title="Video Script"/>
         </div>
         <div class="col m4">
-          <ProjectSummary/>
+          <ProjectSummary title="Whitepaper"/>
           <br />
-          <ProjectSummary/>
+          <ProjectSummary title="Product Description"/>
           <br />
-          <ProjectSummary/>
+          <ProjectSummary title="Company Profile"/>
         </div>         
       </div>
     )
