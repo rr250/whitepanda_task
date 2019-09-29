@@ -5,8 +5,8 @@ import ProjectList from '../project/ProjectList'
 class Dashboard extends Component{
     render(){
         return(
-            <div className="dashboard container" >
-                <h3>Content Store</h3>
+            <div style={{paddingRight:400, paddingLeft:50, paddingTop:50, paddingBottom:50, }} >
+                <h4>Content Store</h4>
                 <br />
                 <br />
                 <div class="container grey col m12 lighten-5">

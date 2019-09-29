@@ -7,7 +7,7 @@ import { fab } from "@fortawesome/free-brands-svg-icons"
 library.add( fab)
 const Footer = () => {
     return (
-        <footer class="page-footer transparent">
+        <footer class="page-footer transparent" style={{paddingRight:200}}>
             <div class="container center grey-text">
                 <br />
                 <br />       
