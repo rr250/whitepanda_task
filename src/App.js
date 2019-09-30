@@ -12,10 +12,10 @@ class App extends Component {
         <div className="App">
           <Navbar />
           <div className="row">
-            <div className="col s12 m1">
+            <div className="col s1 m1">
                 <VerticalTabs/>
             </div>
-            <div className="col s12 m11">
+            <div className="col s11 m11">
                 <Dashboard/>
                 <Footer />
             </div>
