@@ -1,15 +1,13 @@
 {
-  "main.css": "/whitepanda_task/static/css/main.2c32d9c9.chunk.css",
-  "main.js": "/whitepanda_task/static/js/main.db8b386d.chunk.js",
-  "main.js.map": "/whitepanda_task/static/js/main.db8b386d.chunk.js.map",
-  "static/css/1.b560817f.chunk.css": "/whitepanda_task/static/css/1.b560817f.chunk.css",
-  "static/js/1.81a5b392.chunk.js": "/whitepanda_task/static/js/1.81a5b392.chunk.js",
-  "static/js/1.81a5b392.chunk.js.map": "/whitepanda_task/static/js/1.81a5b392.chunk.js.map",
+  "main.css": "/whitepanda_task/static/css/main.1a19b77a.chunk.css",
+  "main.js": "/whitepanda_task/static/js/main.ce6589b6.chunk.js",
+  "main.js.map": "/whitepanda_task/static/js/main.ce6589b6.chunk.js.map",
+  "static/js/1.71886a6b.chunk.js": "/whitepanda_task/static/js/1.71886a6b.chunk.js",
+  "static/js/1.71886a6b.chunk.js.map": "/whitepanda_task/static/js/1.71886a6b.chunk.js.map",
   "runtime~main.js": "/whitepanda_task/static/js/runtime~main.5a78d97a.js",
   "runtime~main.js.map": "/whitepanda_task/static/js/runtime~main.5a78d97a.js.map",
-  "static/css/1.b560817f.chunk.css.map": "/whitepanda_task/static/css/1.b560817f.chunk.css.map",
-  "static/css/main.2c32d9c9.chunk.css.map": "/whitepanda_task/static/css/main.2c32d9c9.chunk.css.map",
+  "static/css/main.1a19b77a.chunk.css.map": "/whitepanda_task/static/css/main.1a19b77a.chunk.css.map",
   "index.html": "/whitepanda_task/index.html",
-  "precache-manifest.7b0982b8a152585f666dc54c471b8e62.js": "/whitepanda_task/precache-manifest.7b0982b8a152585f666dc54c471b8e62.js",
+  "precache-manifest.2cdfa8212ececd5150d5c3b1268ec2d1.js": "/whitepanda_task/precache-manifest.2cdfa8212ececd5150d5c3b1268ec2d1.js",
   "service-worker.js": "/whitepanda_task/service-worker.js"
 }
